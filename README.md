@@ -13,3 +13,7 @@ Panel use in this project
  https://www.ebay.co.uk/itm/274135293782?ViewItem=&item=274135293782
  
 ![Image of Display](Youtube%20Display.jpg)
+
+HUB75E Pinout
+
+![Image of Display](HUB75E%20connector.jpg)
