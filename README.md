@@ -1,4 +1,4 @@
-# YoutubeSubDisplay
+# YoutubeSubDisplay ESP8266
 
   Based on Sketch by Brian Lough
   https://www.youtube.com/channel/UCezJOfu7OtqGzd5xrP3q6WA
